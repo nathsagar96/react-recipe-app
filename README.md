@@ -1,6 +1,6 @@
 ## To get the APP_ID & APP_KEY
 
-Visit [Edmam] (https://edamam.com) and register and app for recipe api. Use the APP_ID & APP_KEY to send the request to the api.
+Visit [Edmam](https://edamam.com) and register and app for recipe api. Use the APP_ID & APP_KEY to send the request to the api.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
