@@ -50,7 +50,7 @@ export default function App() {
           </button>
         </div>
       </form>
-      <div className="card-columns">
+      <div className="row">
         {recipes.map((recipe) => (
           <Recipe
             key={recipe.recipe.label}
